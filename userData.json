@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bob",
+    "last_name": "Ross",
+    "email": "BRoss@hatena.ne.jp",
+    "gender": "Male",
+    "language": "English",
+    "age": 49,
+    "city": "Happy",
+    "state": "Pennsylvania",
+    "type": "user",
+    "favorites": [
+      "Paiting",
+      "Trees",
+      "css",
+      "react"
+    ]
+  },
+  {
+    "id": 2,
+    "first_name": "Betty",
+    "last_name": "Murray",
+    "email": "bmurray1@sciencedirect.com",
+    "gender": "Female",
+    "language": "english",
+    "age": 39,
+    "city": "Birmingham",
+    "state": "Alabama",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 3,
+    "first_name": "Lori",
+    "last_name": "Dunn",
+    "email": "ldunn2@dell.com",
+    "gender": "Female",
+    "language": "french",
+    "age": 46,
+    "city": "Fort Worth",
+    "state": "Texas",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "html",
+      "css",
+      "react"
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Sarah",
+    "last_name": "Gomez",
+    "email": "sgomeze@wikipedia.org",
+    "gender": "Female",
+    "language": "french",
+    "age": 69,
+    "city": "Fort Worth",
+    "state": "Texas",
+    "type": "moderator",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 5,
+    "first_name": "Sara",
+    "last_name": "Peters",
+    "email": "spetersf@amazon.de",
+    "gender": "Female",
+    "language": "english",
+    "age": 27,
+    "city": "Saint Paul",
+    "state": "Minnesota",
+    "type": "moderator",
+    "favorites": [
+      "cats",
+      "dogs",
+      "angular",
+      "node",
+      "mongodb",
+      "sql"
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Steve",
+    "last_name": "Riley",
+    "email": "srileyg@macromedia.com",
+    "gender": "Male",
+    "language": "english",
+    "age": 58,
+    "city": "Melbourne",
+    "state": "Florida",
+    "type": "moderator",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Eugene",
+    "last_name": "Bishop",
+    "email": "ebishoph@uol.com.br",
+    "gender": "Male",
+    "language": "english",
+    "age": 25,
+    "city": "Detroit",
+    "state": "Michigan",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "html",
+      "css",
+      "react"
+    ]
+  },
+  {
+    "id": 8,
+    "first_name": "Paula",
+    "last_name": "Hudson",
+    "email": "phudson18@squidoo.com",
+    "gender": "Female",
+    "language": "english",
+    "age": 32,
+    "city": "Joliet",
+    "state": "Illinois",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 9,
+    "first_name": "James",
+    "last_name": "Webb",
+    "email": "jwebb19@stanford.edu",
+    "gender": "Male",
+    "language": "spanish",
+    "age": 22,
+    "city": "South Lake Tahoe",
+    "state": "California",
+    "type": "moderator",
+    "favorites": [
+      "cats"
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Terry",
+    "last_name": "Brown",
+    "email": "tbrown1a@furl.net",
+    "gender": "Male",
+    "language": "english",
+    "age": 18,
+    "city": "Saint Louis",
+    "state": "Missouri",
+    "type": "moderator",
+    "favorites": [
+      "cats",
+      "dogs",
+      "angular",
+      "node",
+      "mongodb",
+      "sql"
+    ]
+  },
+  {
+    "id": 11,
+    "first_name": "Wanda",
+    "last_name": "Wright",
+    "email": "wwright1b@wisc.edu",
+    "gender": "Female",
+    "language": "english",
+    "age": 29,
+    "city": "Buffalo",
+    "state": "New York",
+    "type": "moderator",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 12,
+    "first_name": "Kathy",
+    "last_name": "Hamilton",
+    "email": "khamilton1c@rambler.ru",
+    "gender": "Female",
+    "language": "spanish",
+    "age": 66,
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 13,
+    "first_name": "David",
+    "last_name": "Griffin",
+    "email": "dgriffin1d@theglobeandmail.com",
+    "gender": "Male",
+    "language": "english",
+    "age": 20,
+    "city": "Palm Bay",
+    "state": "Florida",
+    "type": "user",
+    "favorites": [
+      "angular",
+      "react"
+    ]
+  },
+  {
+    "id": 14,
+    "first_name": "Craig",
+    "last_name": "Hudson",
+    "email": "chudson1e@blogtalkradio.com",
+    "gender": "Male",
+    "language": "spanish",
+    "age": 67,
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "type": "user",
+    "favorites": [
+      "cats",
+      "dogs",
+      "angular",
+      "node",
+      "mongodb",
+      "sql"
+    ]
+  },
+  {
+    "id": 15,
+    "first_name": "Lillian",
+    "last_name": "Perkins",
+    "email": "lperkins1f@vistaprint.com",
+    "gender": "Female",
+    "language": "klingon",
+    "age": 23,
+    "city": "Reno",
+    "state": "Nevada",
+    "type": "user",
+    "favorites": [
+      "cats",
+      "dogs",
+      "angular",
+      "node",
+      "mongodb",
+      "sql"
+    ]
+  }
+]
